@@ -1,0 +1,15 @@
+node_modules
+dist
+.env
+.DS_Store
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
+
+# Source portrait originals are kept locally; the app uses the curated copies in public/agents.
+/CYBER SECURITY.jpg
+/DESIGNER.jpg
+/LAWER.jpg
+/PRODUCT MANAGER.jpg
+/QA.jpg
+/SELLER.jpg
